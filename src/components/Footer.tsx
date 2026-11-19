@@ -21,7 +21,7 @@ export function Footer() {
             <p className="mb-2 font-bold uppercase tracking-wider text-crema">Suis-nous</p>
             <ul className="space-y-1">
               <li><a href="https://www.instagram.com/meat_temps/" target="_blank" rel="noreferrer" className="hover:text-verde-light">Instagram @meat_temps</a></li>
-              <li><a href="https://off-side.vercel.app" className="hover:text-verde-light">Offside, juste à côté</a></li>
+              <li><a href="https://off-side-phi.vercel.app" className="hover:text-verde-light">Offside, juste à côté</a></li>
             </ul>
           </div>
           <div>

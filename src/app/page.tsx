@@ -202,7 +202,7 @@ export default function Home() {
         <section className="px-4 py-12 md:px-8">
           <Reveal>
             <a
-              href="https://off-side.vercel.app"
+              href="https://off-side-phi.vercel.app"
               className="card trame-crema group mx-auto flex max-w-7xl flex-col items-start justify-between gap-6 p-8 text-ink md:flex-row md:items-center md:p-12"
             >
               <div>
